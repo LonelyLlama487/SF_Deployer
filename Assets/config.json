@@ -1,20 +1,3 @@
 {
-    "org1" : {
-        "display_label" : "sspeedOrg",
-        "username" : "soomjeetsahoo@outlook.com",
-        "password" : "Som$@hoo97_sspeed2",
-        "secret_token" : "Wi8UbJyuNl2DYlq66SgoMflMT",
-        "client_id" : "3MVG9G9pzCUSkzZt9SeVqPfgFV6vUgD0ickwePSb6xv3xtc88bRM8IXkQ9CGvtdCotsp5NYD0fUxCIRzFwQFQ",
-        "client_secret" : "6F14F57E076E9756D5B567EA3C56EF8A723127CDC1D4E11ACE75324FCA0BA432",
-        "instance_url" : "https://sspeed-dev-ed.lightning.force.com/"
-    },
-    "org2" : {
-        "display_label" : "Lonely Llama",
-        "username" : "lonelyllama487@outlook.com",
-        "password" : "Som$@hoo97_llama",
-        "secret_token" : "u34H0RNYXyiSpTuusiZ8hJEy",
-        "client_id" : "3MVG9G9pzCUSkzZv4enZYfCpDAj5ZibSyqWm6cDUjGUW8IEpKSm9_tkRT_d7DFgfki9uHgTdUzMsiXx4j5G7V",
-        "client_secret" : "7FCF2F513278B6CEAC89274C97E8B71E1A2069EEF6C3A9D2691668984F663AF8",
-        "instance_url" : "https://llama487-dev-ed.my.salesforce.com/"
-    }
+    
 }
