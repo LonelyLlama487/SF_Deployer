@@ -16,7 +16,7 @@ const CLIENT_SECRET_STR = "client_secret";
 
 /* return salesforce Auth Token */
 async function getAuthToken(...params){
-    console.log("[+] Auth");
+    console.log("[+] Auth +change");
     let dispName = params[ZEROTH_ELEMENT][DISPALY_LABEL_STR];
     let uname = params[ZEROTH_ELEMENT][USERNAME_STR];
     let pass = params[ZEROTH_ELEMENT][PASSWORD_STR];
