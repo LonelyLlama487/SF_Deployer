@@ -37,7 +37,7 @@ async function getAuthToken(...params){
 
 async function getAllOrgs(){
     let allKeys = [];
-    Object.keys(parsedCredJson).forEach(function (currentItem, index){
+    Object.keys(parsedCredJson).forEach((currentItem, index) => {
         allKeys.push(currentItem);
     });
     return allKeys;
